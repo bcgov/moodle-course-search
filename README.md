@@ -116,4 +116,8 @@ The plugin searches the following core Moodle tables:
 
 ## Author
 
-Your Name - 2025
+BC Public Service Agency.
+
+## License
+
+Coming soon but open.
